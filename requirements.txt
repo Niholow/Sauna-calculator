@@ -1,0 +1,6 @@
+click @ file:///Users/romanaskin/Desktop/sauna_calculator/packajes/Click-8.0.4-py3-none-any.whl
+Flask @ file:///Users/romanaskin/Desktop/sauna_calculator/packajes/Flask-2.0.3-py3-none-any.whl
+itsdangerous @ file:///Users/romanaskin/Desktop/sauna_calculator/packajes/itsdangerous-2.0.1-py3-none-any.whl
+Jinja2 @ file:///Users/romanaskin/Desktop/sauna_calculator/packajes/Jinja2-3.0.1-py3-none-any.whl
+MarkupSafe==2.1.1
+Werkzeug @ file:///Users/romanaskin/Desktop/sauna_calculator/packajes/Werkzeug-2.0.3-py3-none-any.whl
