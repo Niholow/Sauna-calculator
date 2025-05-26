@@ -1,0 +1,9 @@
+{
+  "name": "Калькулятор сауны",
+  "short_name": "Сауна",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007AFF",
+  "description": "Рассчитывай стоимость сауны как в античности"
+}
